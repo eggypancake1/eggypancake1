@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qnhtvzl4enhpjlqqw3fisp4fku&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=517190&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qnhtvzl4enhpjlqqw3fisp4fku&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53879d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <p align="center">
 <img width="324" height="74" alt="crabs" src="https://github.com/user-attachments/assets/761d6a1a-dfb5-4651-ad2d-183011fd8d26"
 
