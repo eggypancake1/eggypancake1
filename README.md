@@ -23,7 +23,8 @@
 
 
 <div align="center">
-<img width="500" alt="gng" src="https://github.com/user-attachments/assets/45d4d696-577b-4176-9bec-4ae5cd8743ec" />
+<img width="500" alt="gggng" src="https://github.com/user-attachments/assets/e319d691-a647-42e8-ab8d-35f8fa6148e3" />
+
 
 
 <div align="center">
