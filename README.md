@@ -21,7 +21,9 @@
 <div align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/fb182835-5509-4f76-b57e-5436b15fefa0" />
 
-placeholder
+
+<div align="center">
+<img width="500" alt="gng" src="https://github.com/user-attachments/assets/45d4d696-577b-4176-9bec-4ae5cd8743ec" />
 
 
 <div align="center">
