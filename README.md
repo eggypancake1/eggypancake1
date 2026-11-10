@@ -21,9 +21,7 @@
 <div align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/fb182835-5509-4f76-b57e-5436b15fefa0" />
 
-
-<div align="center">
-<img width="500" alt="Screenshot 2026-11-06 220406" src="https://github.com/user-attachments/assets/d8dbfb8d-e083-426f-8cb7-1d1b306658a9" />
+placeholder
 
 
 <div align="center">
@@ -41,3 +39,4 @@
 
 <div align="center">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/886c80d3-a7bb-4381-9f59-ba341661bb14" />
+
