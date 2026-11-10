@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<img width="500" alt="Screenshot 2026-04-18 8 07 58 PM" src="https://github.com/user-attachments/assets/b36ba122-6f28-4370-8818-96534f734acf" />
+<img width="500" alt="Screenshot 2026-11-06 220406" src="https://github.com/user-attachments/assets/d8dbfb8d-e083-426f-8cb7-1d1b306658a9" />
 
 
 <div align="center">
