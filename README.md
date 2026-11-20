@@ -4,6 +4,7 @@
 
 [rentry](https://rentry.co/eggypancake) <a href="https://rentry.co/eggypancake/" style="color: D7B893; text-decoration: underline;text-decoration-style: dotted;"> [lists](https://listography.com/eggypancake) <a href="https://listography.com/eggypancake" style="color: D7B893; text-decoration: underline;text-decoration-style: dotted;">
 
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/403b5694-2e0f-4c8b-b34c-b91ac5e2a6e9" />
 
 
@@ -45,3 +46,7 @@
 <div align="center">
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/886c80d3-a7bb-4381-9f59-ba341661bb14" />
 
+<details>
+    <summary>i hate gh</summary>
+    GITHUB ACTUALLY PISSES ME OFF. cuz wdym im doing everything in my power to add a gif and ive done it before and it still doesnt show up. GOD forbid im not tech savvy HELP PLEASE. somehow i cant even add a graphic inbetween links without the graphic itself either dissapearing or becoming apart of the link. omfg end me rn
+</details>
