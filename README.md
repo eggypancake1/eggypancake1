@@ -2,7 +2,7 @@
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qnhtvzl4enhpjlqqw3fisp4fku&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53879d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[rentry](https://rentry.co/eggypancake) <a href="https://rentry.co/eggypancake/" style="color: D7B893; text-decoration: underline;text-decoration-style: dotted;"> h [lists](https://listography.com/eggypancake) <a href="https://listography.com/eggypancake" style="color: D7B893; text-decoration: underline;text-decoration-style: dotted;">
+[rentry](https://rentry.co/eggypancake) <a href="https://rentry.co/eggypancake/" style="color: D7B893; text-decoration: underline;text-decoration-style: dotted;">  [lists](https://listography.com/eggypancake) <a href="https://listography.com/eggypancake" style="color: D7B893; text-decoration: underline;text-decoration-style: dotted;">
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/403b5694-2e0f-4c8b-b34c-b91ac5e2a6e9" />
 
